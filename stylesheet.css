@@ -13,9 +13,7 @@
 }
 .video {align: center; magin-top: 100px; position: fixed; top: 0; bottom: 400; left: 0; right: 0;}
 .center-info {margin-right: 400px; margin-left: 400px; position: fixed; top: 450; bottom: 0; left: 0; right: 0; }
-.commands {
-       moz-column-count: 2;
-       moz-column-gap: 20px;
+.commandsinfo {
        margin-right: 400px; 
        margin-left: 400px;
        position: fixed; top: 450; bottom: 0; left: 0; right: 0;
