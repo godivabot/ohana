@@ -40,8 +40,20 @@ Hello there. If you are viewing this page, you have agreed to the terms of "secr
 All commands are to be inputed on the Godivabot Chat on the LEFT.  
 <p><b>PLS DO NOT INPUT ANY OF THE COMMANDS ON OHANA CHAT.</b> </div>
 <p>
-<div class="commands"></div>
-The basic mod commands are as followed:
+<section class="commandsinfo">
+<script type="text/javascript">
+  $(document).ready(function() {
+    var size = $("#data > p").size();
+ $(".Column1 > p").each(function(index){
+  if (index >= size/2){
+   $(this).appendTo("#Column2");
+  }
+ });
+  });
+</script>
+
+<div id="data" class="Column1" style="float:left;width:300px;">
+<!--   data Start -->
 <p>
 To time out a user for 10 minute:
 <p><code>#007 <i>username</i></code>
@@ -49,12 +61,20 @@ To time out a user for 10 minute:
 To clear the chat:
 <p><code>#009</code>
 <p>
+<!--   data Emd-->
+</div>
+<div id="Column2" style="float:left;width:300px;"></div>
+<!--   data Start -->
+<p>
 And should it come to this, to ban a user:
 <p><code>#codered <i>username</i></code>
 <p>
 Incase of accidents or redemption is necessary, to unban a user (even from timeout)
 <p><code>#redeem <i>username</i></code>
+<!--   data Emd-->
 </div>
+</section>
+
 
 </body>
 </html>
