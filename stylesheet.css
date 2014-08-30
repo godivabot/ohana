@@ -2,7 +2,7 @@
   right: 0;
   top: 0;
   bottom: 0;
-  width: 340px;
+  width: 35%px;
   z-index: 10;
 }
 .modchat {
@@ -15,5 +15,5 @@ bottom: 0;
 width: 20%;
 z-index: 10;
 }
-.video {align: center; position: relative; top: 0px; bottom: 0; left: 0; right: 0; z-index: 10; width: 745px;}
+.video {align: center; position: relative; top: 0px; bottom: 0; left: 0; right: 0; z-index: 10; width: 55%;}
 .moderatorinfo {width: 640px; position: relative; top: 0px; bottom: 0; left: 400px; right: 400px; z-index: -10;}
