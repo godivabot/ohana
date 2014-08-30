@@ -15,5 +15,5 @@ bottom: 0;
 width: 20%;
 z-index: 10;
 }
-.video {align: center; magin-top: 100px; position: relative; top: 0px; bottom: 0; left: 0; right: 0; z-index: 10; width: 745px;}
+.video {align: center; position: fixed; top: 0px; bottom: 0; left: 0; right: 0; z-index: 10; width: 745px;}
 .moderatorinfo {width: 640px; position: relative; top: 0px; bottom: 0; left: 400px; right: 400px; z-index: -10;}
