@@ -6,13 +6,13 @@
   z-index: 30;
 }
 .modchat {
-  position: fixed;
-  right: 1000;
-  left: 0;
-  top: 0;
-  bottom: 0;
-  width: 340px
-  z-index: 10;
+position: fixed;
+right: 1000;
+left: 0;
+top: 0;
+bottom: 0;
+width: 340px
+z-index: 10;
 }
 .video {align: center; magin-top: 100px; position: relative; top: 0px; bottom: 0; left: 0; right: 0; z-index: -30;}
 .moderatorinfo {width: 640px; position: relative; top: 0px; bottom: 0; left: 0; right: 0; z-index: -10;}
