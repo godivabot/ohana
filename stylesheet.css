@@ -15,4 +15,4 @@
   z-index: 10;
 }
 .video {align: center; magin-top: 100px; position: relative; top: 0px; bottom: 0; left: 0; right: 0; z-index: -30;}
-.moderatorinfo {position: relative; top: 0px; bottom: 0; left: 0; right: 0; z-index: -10;}
+.moderatorinfo {width: 640px; position: relative; top: 0px; bottom: 0; left: 0; right: 0; z-index: -10;}
