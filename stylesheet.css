@@ -18,3 +18,7 @@ z-index: 10;
 }
 .video {align: center; position: relative; top: 0px; bottom: 0; left: 0; right: 0; z-index: 10; width: 52%;}
 .moderatorinfo {width: 640px; position: relative; top: 0px; bottom: 0; left: 400px; right: 400px; z-index: -10;}
+
+p {
+    font-family: Arial, Helvetica, sans-serif
+} 
