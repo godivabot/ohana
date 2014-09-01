@@ -1,3 +1,7 @@
+body {
+    background-color: #FAFAFA;
+}
+
 .ohanachat {position: fixed;
   float: right;
   right: 0;
